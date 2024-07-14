@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
-Analista de sistemas em formação, apaixonado por tecnologia e programação, games e um bom café, busco aprimorar meus conhecimentos diariamente, construindo portfólio e seguindo um Roadmap de estudos pré-definido.
+Analista de sistemas em formação, apaixonado por tecnologia, programação, games e um bom café, busco aprimorar meus conhecimentos diariamente, construindo portfólio e seguindo um Roadmap de estudos pré-definido.
 Atualmente estudando inglês.
 
 <p align="left">
