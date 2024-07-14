@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
-Analista de sistemas em formação, entusiasta de tecnologia e programação, busco aprimorar meus conhecimentos diariamente, construindo portfólio e seguindo um Roadmap de estudos pré-definido com o intuito de realizar transição para a área de tecnologia.
+Analista de sistemas em formação, apaixonado por tecnologia e programação, busco aprimorar meus conhecimentos diariamente, construindo portfólio e seguindo um Roadmap de estudos pré-definido com o intuito de realizar transição para a área de tecnologia.
 </p>
 
 <p align="left">
