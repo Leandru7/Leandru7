@@ -28,6 +28,3 @@ Analista de sistemas em formação, apaixonado por tecnologia, games, viagens e 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leandru7/)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandru7&theme=github_dark&icons=true)
-</p>
