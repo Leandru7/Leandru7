@@ -20,7 +20,7 @@ Desenvolvedor de sistemas em formação, tenho um olhar atento para detalhes vis
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,hibernate,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,spring,hibernate,tailwind,docker" />
   </a>
 </p>
 </div>
