@@ -30,12 +30,7 @@ Desenvolvedor de sistemas em formação, tenho um olhar atento para detalhes vis
   <a href="https://github.com/leandru7" title="Perfil do Leandro">
     <p align="left">
 
-  ## Futuramente:  
-  🎓  Pós graduação em Arquitetura de Software 
 
-## Objetivo:
-🧭 Busco oportunidades em projetos desafiadores onde possa aprimorar minhas habilidades, contribuindo com soluções digitais orientadas à performance, acessibilidade e design moderno.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-👥 Acredito no poder da colaboração e da troca de experiências através de conexões, parcerias e mentorias com profissionais da área.
