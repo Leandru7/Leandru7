@@ -3,6 +3,11 @@
   <img src="https://i.redd.it/abcpef5ajpfe1.gif" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leandru7&label=Visualizações&color=0e75b6&style=flat-square" alt="Visualizações de perfil" />
+</p>
+
+
 <h1 align="center">Salve, Glr! Eu sou o Leandro 🤘</h1>
 
 <p align="center">
