@@ -54,4 +54,5 @@ React • TypeScript • Spring Framework • Hibernate • TailwindCSS • Dock
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandru7&show_icons=true&locale=en&layout=compact" alt="leandru7" /></p>
 
 
+
 <p align="right"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"> </p>
