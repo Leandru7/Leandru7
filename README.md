@@ -29,7 +29,7 @@ Web developer, passionate about travel, games, and good specialty coffee </p>
 
 ---
 
-### 🌐 Conecte-se comigo:
+### 🌐 Contact me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leandrualves/" target="_blank">
