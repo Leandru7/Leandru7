@@ -49,9 +49,8 @@ Contact me:
   <a href="mailto:leandro-alves94@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Leandru7/Leandru7/refs/heads/main/assets/Outlook.svg" alt="Outlook" width="48" height="48" /></a>
   <a href="https://wa.me/5518996874430" target="_blank">
-  <img src="https://raw.githubusercontent.com/Leandru7/Leandru7/refs/heads/main/assets/WhatsApp.svg" alt="WhatsApp" width="48" height="48" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/Leandru7/Leandru7/refs/heads/main/assets/WhatsApp.svg" alt="WhatsApp" width="50" height="50" />
+  </a>
 </h1>
 
 <h1 align="center">
