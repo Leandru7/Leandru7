@@ -39,15 +39,17 @@
 <h1 align="center">
   <a href="https://github.com/Leandru7">
     <img height="140" alt="Top languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandru7&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title_color=A259FF&icon_color=F8F8F2&text_color=ffffff&bg_color=0d1117&hide_border=true" /></a> 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Leandru7&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117&hide_border=true" />
+  </a> 
   <a href="https://github.com/Leandru7">
     <img height="140" alt="GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=Leandru7&show_icons=true&theme=tokyonight&title_color=A259FF&icon_color=F8F8F2&text_color=ffffff&bg_color=0d1117&rank_icon=github&card_width=320&hide_border=true"/>
+         src="https://github-readme-stats.vercel.app/api?username=Leandru7&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117&rank_icon=github&card_width=320&hide_border=true"/>
   </a>
 </h1>
 
 <p align="center">    
-    <a href="https://github.com/Leandru7">
+  <a href="https://github.com/Leandru7">
     <img height="140" alt="GitHub streak"
-         src="https://github-readme-streak-stats.herokuapp.com?user=Leandru7&theme=tokyonight&date_format=j%20M%5B%20Y%5D&title_color=A259FF&text_color=ffffff&background=0d1117&hide_border=true" /> </a> 
+         src="https://github-readme-streak-stats.herokuapp.com?user=Leandru7&theme=tokyonight&date_format=j%20M%5B%20Y%5D&title_color=00FFFF&text_color=00FFFF&background=0d1117&hide_border=true" />
+  </a> 
 </p>
