@@ -30,7 +30,8 @@ A beginning developer, passionate about programming, travels, games and coffee â
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=125&section=footer"/>
 
   <td align="left" width="55%" style="vertical-align: top;">
-      <img width="870" height="972" alt="image" src="https://github.com/user-attachments/assets/4ecc2a84-900b-4ae7-aba8-e6855d42ca38" />
-   </td>
+<img width="868" height="972" alt="image" src="https://github.com/user-attachments/assets/aaef0b59-0c53-49f1-b497-326dba81f5ad" />
+
+  </td>
   </tr>
 </table>
